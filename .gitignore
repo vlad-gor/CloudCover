@@ -4,3 +4,4 @@ lightning_logs
 new_labels
 benchmark*
 __pycache__
+unet_model.ipynb
